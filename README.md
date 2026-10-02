@@ -1,5 +1,5 @@
 # TrabalhoFinalAlgoritmoEProgramacao
-Trabalho final da doisciplina
+Trabalho final da disciplina
 1. Matheus Figueiredo da Silva
 2. Algoritmos e Programação
 3. Trabalho Final — Sistema de Atendimento e Pedidos
